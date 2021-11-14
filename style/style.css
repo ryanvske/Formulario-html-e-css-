@@ -43,3 +43,8 @@ input, select, textarea, button{
     margin-right: -50%;
     transform: translate(-50%, -50%);
 }
+
+.botao:hover{
+    background: #ce9773;
+    text-shadow: none;
+}
