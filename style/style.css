@@ -22,3 +22,24 @@ body{
     margin-top: 2%;
     justify-content: center;
 }
+
+input, select, textarea, button{
+    border-radius: 7px;
+}
+
+.campo{
+    margin-bottom: 2em;
+}
+
+.botao{
+    font-size: 1.2em;
+    background: #b17146;
+    border: 0;
+    margin-bottom: 1em;
+    padding: 0.2em 0.6em;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
